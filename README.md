@@ -94,7 +94,7 @@ Neste terceiro projeto utilizamos as seguintes tecnologias:
 <p>O desafio proposto permitiu o primeiro contato com o framework Springboot que permitiu conhecer essa ferramenta, onde, foi possivel realizar a integração com o banco de dados através do JPA que permite uma conexão mais facil, limpa e rapida.</p>
 <p>Desempenhando a função de Master do grupo, pude aprender mais sobre a organização das tarefas e dos prazos de entrega, saber gerenciar melhor as pessoas que integraram meu grupo.</p>
 
-p><b>Hard Skills:</b> Java, Springboot, iPDF, MySql, Heroku, Metodologia SCRUM como Master.</p>
+<p><b>Hard Skills:</b> Java, Springboot, iPDF, MySql, Heroku, Metodologia SCRUM como Master.</p>
 <p><b>Soft Skills:</b> Iniciação no framework Springboot, permitiu a integração com o banco de dados através do JPA e exercendo a função de Master que me ajudou a gerir melhor o grupo. </p>
 <br>
  
