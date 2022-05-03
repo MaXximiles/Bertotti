@@ -36,8 +36,10 @@ ________________________________________________________________________________
 
 <p align="center"><img src="https://raw.githubusercontent.com/labarro/projeto-integrador-2sem/master/LogoYCad.png" width="280" height="120"></>
  
+<p>Neste segundo projeto nosso cliente foi em parceria com a empresa TecSUS
 
-<p>Em parceria com a empresa TecSUS descobrimos que a principal dificuldade da mesma está no cadastro manual de faturas, que por falta de padronização por parte das concessionarias responsaveis, acarretam em dados que não podem ser lidos automaticamente pelo sistema ja implementado na empresa. Tendo em vista esse obstáculo, desenvolvemos o projeto visando um sistema simples e intuitivo, que reduza a chance de erros na hora de inserção de dados por parte do operador, proporcionando redução no tempo de digitação, retrabalho e minimizando assim tempo de execução dessas operações.</p>
+<p>Onde descobrimos que a principal dificuldade da mesma está no cadastro manual de faturas, que por falta de padronização por parte das concessionarias responsaveis, acarretam em dados que não podem ser lidos automaticamente pelo sistema ja implementado na empresa.</p>
+<p>Tendo em vista esse obstáculo, desenvolvemos o projeto visando um sistema simples e intuitivo, que reduza a chance de erros na hora de inserção de dados por parte do operador, proporcionando redução no tempo de digitação, retrabalho e minimizando assim tempo de execução dessas operações.</p>
 
 #### TECNOLOGIAS UTILIZADAS
 
