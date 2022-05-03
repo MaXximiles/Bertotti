@@ -124,7 +124,7 @@ ________________________________________________________________________________
 <p>Neste projeto pude focar mais na gerencia do grupo, desempenhando a função de master e gerenciando melhor a equipe. O grupo teve melhor rendimento com a divisão de tarefas e comprimento dos prazos.</p>
 <p>O projeto tinha grande foco no banco de dados Oracle Cloud, permitindo a criação de funções dentro do projeto para execução do sistema.</p>
 
-p><b>Hard Skills:</b> Java, Springboot, Oracle Cloud, Heroku, Metodologia SCRUM como Master.</p>
+<p><b>Hard Skills:</b> Java, Springboot, Oracle Cloud, Heroku, Metodologia SCRUM como Master.</p>
 <p><b>Soft Skills:</b> Tendo como foco o Oracle Cloud o projeto permitiu a integração com o projeto e o contato com a ferramenta.  </p>
 <br>
  
